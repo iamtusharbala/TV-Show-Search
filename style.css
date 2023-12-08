@@ -1,0 +1,15 @@
+h1,
+form {
+  text-align: center;
+}
+
+#show {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+img {
+  margin: 1rem;
+}
